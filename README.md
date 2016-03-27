@@ -1,2 +1,2 @@
 # Destiny
-this is a demo
+this is a fight game
